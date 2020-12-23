@@ -1,8 +1,9 @@
 {
-  "name": "e-gro",
+  "name": "egro",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^6.6.2",
     "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -24,5 +25,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "Online Groceries",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanushaRamesh/EGro.git"
+  },
+  "author": "Thanusha Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThanushaRamesh/EGro/issues"
+  },
+  "homepage": "https://github.com/ThanushaRamesh/EGro#readme"
 }
